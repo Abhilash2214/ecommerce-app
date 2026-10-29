@@ -66,13 +66,7 @@
             <!-- Version is managed by spring-boot-starter-parent -->
         </dependency>
 
-        <!-- Add this inside <dependencies> in pom.xml -->
-        <!-- Spring Mail — Gmail se email bhejne ke liye -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-mail</artifactId>
-        </dependency>
-
+       
         <!-- ═══════════════════════════════════════════════════════════
              DATABASE
              ═══════════════════════════════════════════════════════════ -->
