@@ -1,0 +1,28 @@
+# Backend .env file
+backend/.env
+
+# Frontend .env file
+frontend/.env
+
+# IDE files
+.idea/
+*.iml
+
+# Build folders
+backend/target/
+frontend/build/
+frontend/node_modules/
+
+
+node_modules/
+target/
+.idea/
+.env
+ecommerce-backup.sql
+fix-mobiles.sql
+products-seed.sql
+build-error.txt
+
+startup-log.txt
+app.jar
+run-log.txt
