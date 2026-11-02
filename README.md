@@ -313,7 +313,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Adarsh Tiwari**
+**Abhilash K**
 GitHub: [@abhilash](https://github.com/Abhilash2214)
 
 ---
