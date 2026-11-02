@@ -315,7 +315,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Abhilash K**
-GitHub: [@abhilash](https://github.com/Abhilash2214)
+GitHub: [@Abhilash2214](https://github.com/Abhilash2214)
 
 ---
 
