@@ -2,8 +2,9 @@
 
 A complete, production-ready e-commerce platform built with **Spring Boot**, **React**, **MySQL**, and **JWT Authentication**. Features real-time payment integration with Razorpay, an admin dashboard, product management, and delivery estimation.
 
-**Live Demo:** [https://ecommerce-app-1-fnc3.onrender.com](https://ecommerce-app-1-fnc3.onrender.com)
+**Live Demo:** [https://ecommerce-app-1-wtn8.onrender.com](https://ecommerce-app-1-wtn8.onrender.com)
 
+> Hosted on Render's free plan, so the first load can take up to a minute.
 ---
 
 ## 📑 Table of Contents
@@ -38,7 +39,7 @@ A complete, production-ready e-commerce platform built with **Spring Boot**, **R
 **1. Clone & navigate:**
 
 ```bash
-git clone https://github.com/adarshtiwarii/ecommerce-app.git
+git clone https://github.com/Abhilash2214/ecommerce-app.git
 cd ecommerce-app/backend
 ```
 
