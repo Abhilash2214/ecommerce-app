@@ -314,7 +314,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Adarsh Tiwari**
-GitHub: [@adarshtiwarii](https://github.com/adarshtiwarii)
+GitHub: [@abhilash](https://github.com/Abhilash2214)
 
 ---
 
